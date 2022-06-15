@@ -20,4 +20,4 @@ npm run build:prod #minified
 3. Customize the `index.html` file as per your requirement.
 
 ## Demo
-[Resume of Omar](http://mbhuiyan.com)
+[Resume of mannan](http://mbhuiyan.com)
