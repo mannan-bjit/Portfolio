@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MOfaruk/Portfolio.git"
+    "url": "git+https://github.com/mannan-bjit/Portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MOfaruk/Portfolio/issues"
+    "url": "https://github.com/mannan-bjit/Portfolio.git/issues"
   },
-  "homepage": "https://github.com/MOfaruk/Portfolio#readme",
+  "homepage": "https://github.com/mannan-bjit/Portfolio#readme",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
     "postcss": "^8.3.6",
